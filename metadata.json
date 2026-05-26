@@ -1,0 +1,6 @@
+{
+  "name": "Tetris",
+  "description": "Retro Cyber Neon Tetris Game built with Jetpack Compose, featuring holding, ghost drop pieces, tactile circular controls, and local scoring statistics using a Room database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
